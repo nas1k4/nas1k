@@ -1,6 +1,6 @@
 a ='(\___/)'
-b = '(="-"=)'
+d = '(="-"=)'
 c = '(")_(")'
 print(a)
-print(b)
+print(d)
 print(c)
